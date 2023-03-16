@@ -1,1 +1,2 @@
-rake_nltk
+rake_nltk==1.0.6
+click==8.1.3
