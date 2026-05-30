@@ -1,0 +1,25 @@
+# Local secrets and environment
+.env
+.env.*
+!.env.example
+
+# OS, editor, and IDE metadata
+.DS_Store
+.vscode/
+.idea/
+
+# Python/runtime artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.venv*/
+venv/
+.deps/
+
+# Logs, local outputs, and notebooks
+*.log
+.ipynb_checkpoints/
+artifacts/
+playwright-report/
+test-results/
